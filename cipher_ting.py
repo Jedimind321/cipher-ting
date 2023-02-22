@@ -1,3 +1,4 @@
+#AUTHOR: JEDIMIND321
 
 def txt_to_ASCII(user):
     """
